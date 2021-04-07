@@ -40,18 +40,18 @@ skills:
 #Work experience is required
 roles:
  - title: Advanced Repair Agent
-   start: May 2019
+   start: 2019
    end: Ongoing
    employer: Geek Squad
    description: As an Advanced Repair Agent, it was my responsibility to fix Windows computers, Macs, and iPhones. This job also required me to maintain my status as a Apple Certified iOS Technician.
  - title: Apple Pro
-   start: January 2018
+   start: 2018
    end: May 2019
    employer: Best Buy
    description: As an Apple Pro, I attended monthly Apple trainings, and I trained other employees on how to use and demo Apple products. As Apple Pro, I was the top performer in the store twice, including an award for store MVP June of 2018, and the Expert Service award March of 2018.
  - title: Sales Consultant
    start: May 2017
-   end: January 2018
+   end: 2018
    employer: Best Buy
    description: As a sales consultant, I helped customers and answered questions about computers and cameras. This role also included meeting sales goals and down-stocking and cleaning the store.
 
@@ -81,5 +81,5 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Python</strong>: I mainly use Python to develop my Discord bot, <a target="_blank" href="https://github.com/DroTron/Robo-Rick">"Robo Rick"</a>. Robo Rick is currently deployed on AWS and is fully functional running on multiple servers.
-   <strong>Cloud platforms</strong>: I currently run Robo Rick on an AWS EC2 instance, I also have experience running Robo Rick on Vultr's "Cloud Compute" instance.
+   <strong>Python</strong>: I mainly use Python to develop my Discord bot, <a target="_blank" href="https://github.com/DroTron/Robo-Rick">"Robo Rick"</a>. Robo Rick is currently deployed on AWS and is fully functional running on multiple servers.<br/><br/>
+   <strong>Cloud platforms</strong>: I currently run Robo Rick on an AWS EC2 instance, I also have experience running Robo Rick on Vultr's "Cloud Compute" instance.<br/><br/>
